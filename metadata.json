@@ -1,0 +1,6 @@
+{
+  "name": "GeekForge",
+  "description": "GeekForge builds high-performance WordPress websites, WooCommerce and Shopify stores, Android apps, dropshipping platforms, SEO and AI solutions for South African businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
